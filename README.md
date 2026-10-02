@@ -1,57 +1,39 @@
 # ZNZZ
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fernando</title>
+```markdown
+# 👋 ¡Hola! Soy Fernando
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #0a0a0a;
-            font-family: Arial, sans-serif;
-        }
+# 🔵 FERNANDO
 
-        .contenedor {
-            text-align: center;
-        }
+### 💻 Estudiante | 🚀 Programación | 🎮 Tecnología
 
-        h1 {
-            font-size: 80px;
-            color: #00aaff;
-            text-shadow:
-                0 0 10px #00aaff,
-                0 0 20px #00aaff,
-                0 0 40px #0077ff;
-            letter-spacing: 8px;
-            animation: brillo 2s infinite alternate;
-        }
+---
 
-        p {
-            margin-top: 20px;
-            color: white;
-            font-size: 20px;
-        }
+🌐 Bienvenido a mi perfil de GitHub.
 
-        .linea {
-            width: 250px;
-            height: 3px;
-            background: #00aaff;
-            margin: 20px auto;
-            box-shadow: 0 0 15px #00aaff;
-        }
+💙 Me gusta aprender programación y crear nuevos proyectos.
 
-        @keyframes brillo
+---
+
+### 🛠️ Tecnologías
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 Mi perfil
+
+🚀 Siempre aprendiendo algo nuevo  
+💻 Creando proyectos  
+🎯 Mejorando mis habilidades  
+
+---
+
+## ⭐ ¡Gracias por visitar mi perfil!
+
+</div>
 ```
-
